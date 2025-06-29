@@ -1,3 +1,8 @@
-### Hi there, I’m @cindyyzhu 👋 
+### Hi there, I’m Cindy Zhu 
 
-Nice to meet you :) Looking to learn more about computer science!
+## First Year Engineering Science Student @ University of Toronto
+
+# Skills:
+React, Java, Python, HTML, CSS
+
+Nice to meet you
