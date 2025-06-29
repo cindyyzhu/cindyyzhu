@@ -1,8 +1,8 @@
 ### Hi there, I’m Cindy Zhu 
 
-## First Year Engineering Science Student @ University of Toronto
+#### First Year Engineering Science Student @ University of Toronto
 
-# Skills:
+##### Skills:
 React, Java, Python, HTML, CSS
 
-Nice to meet you
+Nice to meet you!
