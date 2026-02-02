@@ -22,10 +22,10 @@ Linux, Raspberry Pi, Arduino, CAD (SolidWorks, Fusion360)
 
 ## 📫 Connect With Me
 
-- 📧 Email: [cindyy.zhu@mail.utoronto.ca](mailto:cindyy.zhu@mail.utoronto.ca)  
-- 💼 LinkedIn: https://linkedin.com/in/cindyyzhu  
-- 💻 GitHub: https://github.com/cindyyzhu  
-- 🏗 Devpost: https://devpost.com/cindyyzhu  
+- 📧 [Email](mailto:cindyy.zhu@mail.utoronto.ca)  
+- 💼 [LinkedIn](https://linkedin.com/in/cindyyzhu)  
+- 💻 [GitHub](https://github.com/cindyyzhu)  
+- 🏗 [Devpost](https://devpost.com/cindyyzhu)
 
 ---
 
