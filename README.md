@@ -4,8 +4,6 @@
 
 🎓 Engineering Science student at the **University of Toronto**  
 
---
-
 ## 🛠️ Technical Skills
 
 **Languages:**  
