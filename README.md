@@ -1,8 +1,32 @@
-### Hi there, I’m Cindy Zhu 
+# 👋 Hi, I'm Cindy Zhu!
 
-#### First Year Engineering Science Student @ University of Toronto
+🎓 Engineering Science student at the **University of Toronto**  
+💻 Aspiring Software Engineer 
+🏆 Hackathon Winner | Robotics Enthusiast | Researcher  
+📍 Toronto, Canada  
 
-##### Skills:
-React, Java, Python, HTML, CSS
+---
 
-Nice to meet you!
+## 🛠️ Technical Skills
+
+**Languages:**  
+Python, Java, JavaScript, TypeScript, C, HTML/CSS  
+
+**Frameworks & Tools:**  
+React, Next.js, Node.js, FastAPI, Flask, NumPy, Git, Bash  
+
+**Platforms:**  
+Linux, Raspberry Pi, Arduino, CAD (SolidWorks, Fusion360)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [cindyy.zhu@mail.utoronto.ca](mailto:cindyy.zhu@mail.utoronto.ca)  
+- 💼 LinkedIn: https://linkedin.com/in/cindyyzhu  
+- 💻 GitHub: https://github.com/cindyyzhu  
+- 🏗 Devpost: https://devpost.com/cindyyzhu  
+
+---
+
+⭐️ *Feel free to explore my projects and reach out if you'd like to collaborate!*
