@@ -17,15 +17,4 @@ React, Next.js, Node.js, FastAPI, Flask, NumPy, Git, Bash
 **Platforms:**  
 Linux, Raspberry Pi, Arduino, CAD (SolidWorks, Fusion360)
 
----
-
-## 📫 Connect With Me
-
-- 📧 [Email](mailto:cindyy.zhu@mail.utoronto.ca)  
-- 💼 [LinkedIn](https://linkedin.com/in/cindyyzhu)  
-- 💻 [GitHub](https://github.com/cindyyzhu)  
-- 🏗 [Devpost](https://devpost.com/cindyyzhu)
-
----
-
 ⭐️ *Feel free to explore my projects and reach out if you'd like to collaborate!*
