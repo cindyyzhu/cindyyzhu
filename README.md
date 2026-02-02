@@ -3,8 +3,6 @@
 💼 [LinkedIn](https://linkedin.com/in/cindyyzhu) | 🏗 [Devpost](https://devpost.com/cindyyzhu) | 📧 [Email](mailto:cindyy.zhu@mail.utoronto.ca)
 
 🎓 Engineering Science student at the **University of Toronto**  
-💻 Aspiring Software Engineer 
-📍 Toronto, Canada  
 
 ---
 
