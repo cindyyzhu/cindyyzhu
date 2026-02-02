@@ -4,7 +4,6 @@
 
 🎓 Engineering Science student at the **University of Toronto**  
 💻 Aspiring Software Engineer 
-🏆 Hackathon Winner | Robotics Enthusiast | Researcher  
 📍 Toronto, Canada  
 
 ---
