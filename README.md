@@ -13,6 +13,6 @@ Python, Java, JavaScript, TypeScript, C, HTML/CSS
 React, Next.js, Node.js, FastAPI, Flask, NumPy, Git, Bash  
 
 **Platforms:**  
-Linux, Raspberry Pi, Arduino, CAD (SolidWorks, Fusion360)
+Linux, Raspberry Pi, Arduino, CAD (SolidWorks, Fusion360, OnShape)
 
 ⭐️ *Feel free to explore my projects and reach out if you'd like to collaborate!*
