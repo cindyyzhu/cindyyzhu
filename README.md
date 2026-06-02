@@ -2,12 +2,12 @@
 
 💼 [LinkedIn](https://linkedin.com/in/cindyyzhu) | 🏗 [Devpost](https://devpost.com/cindyyzhu) | 🌐[Portfolio](https://cindyyzhu.github.io/) | 📧 [Email](mailto:cindyy.zhu@mail.utoronto.ca) 
 
-🎓 Engineering Science student at the **University of Toronto**  
+🎓 Engineering Science student at the **University of Toronto** with an interest in embedded systems
 
 ## 🛠️ Technical Skills
 
 **Languages:**  
-Python, Java, JavaScript, TypeScript, C, HTML/CSS  
+C, Python, Java, JavaScript, TypeScript, HTML/CSS  
 
 **Frameworks & Tools:**  
 React, Next.js, Node.js, FastAPI, Flask, NumPy, Git, Bash  
