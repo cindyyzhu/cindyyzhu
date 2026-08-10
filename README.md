@@ -15,7 +15,7 @@ Raspberry Pi, Raspberry Pi Pico, Arduino, ESP32, computer-vision, sensors
 **Software & Tools:**  
 Git, Bash, NumPy, React, Next.js, Node.js, FastAPI, Flask
 
-**Hardware & Fabrication:**
+**Hardware & Fabrication:** \
 SolidWorks, Onshape, Fusion 360, Meshmixer, AutoCAD, 3D printing
 
 ⭐️ *Reach out if you want to be little whimsical together and make some really cool (and silly) things!*
