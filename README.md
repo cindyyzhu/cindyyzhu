@@ -6,13 +6,16 @@
 
 ## 🛠️ Technical Skills
 
-**Languages:**  
-C, Python, Java, JavaScript, TypeScript, HTML/CSS  
+**Programming:**  
+Python, C, MATLAB, Java, TypeScript, JavaScript, HTML/CSS, Elm
 
-**Frameworks & Tools:**  
-React, Next.js, Node.js, FastAPI, Flask, NumPy, Git, Bash  
+**Embedded & Robotics:**  
+Raspberry Pi, Raspberry Pi Pico, Arduino, ESP32, computer-vision, sensors
 
-**Platforms:**  
-Linux, Raspberry Pi, Arduino, CAD (SolidWorks, Fusion360, OnShape)
+**Software & Tools:**  
+Git, Bash, NumPy, React, Next.js, Node.js, FastAPI, Flask
 
-⭐️ *Feel free to explore my projects and reach out if you'd like to collaborate!*
+**Hardware & Fabrication:**
+SolidWorks, Onshape, Fusion 360, Meshmixer, AutoCAD, 3D printing
+
+⭐️ *Reach out if you want to be little whimsical together and make some really cool (and silly) things!*
