@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cindy Zhu!
 
-💼 [LinkedIn](https://linkedin.com/in/cindyyzhu) | 🏗 [Devpost](https://devpost.com/cindyyzhu) | 🌐[Portfolio](https://cindyyzhu.github.io/) | 📧 [Email](mailto:cindyy.zhu@mail.utoronto.ca) 
+💼 [LinkedIn](https://linkedin.com/in/cindyyzhu) | 🏗 [Devpost](https://devpost.com/cindyyzhu) | 🌐[Portfolio](https://cindyyzhu.vercel.app/) | 📧 [Email](mailto:cindyy.zhu@mail.utoronto.ca) 
 
 🎓 Engineering Science student at the **University of Toronto** with an interest in embedded systems
 
